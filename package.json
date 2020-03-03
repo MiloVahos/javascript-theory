@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Testing javascript code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiloVahos/javascript-theory.git"
+  },
+  "author": "Milo Vahos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiloVahos/javascript-theory/issues"
+  },
+  "homepage": "https://github.com/MiloVahos/javascript-theory#readme"
+}
