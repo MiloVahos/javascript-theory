@@ -1,0 +1,11 @@
+{
+  "name": "mastering-js-fp",
+  "version": "1.0.0",
+  "description": "B15536 Mastering JavaScript Functional Programming (2nd Edition), published by Packt",
+  "main": "chapter_01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
